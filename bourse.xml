@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bourse>
+    <societe type="banque">
+        <codeSociete>SGBM</codeSociete>
+        <nomSociete>Societe Generale</nomSociete>
+        <dateIntroduction>2000-11-01</dateIntroduction>
+        <cotations>
+            <cotation num="23" dateCotation="2010-01-01" valeurAction="650"></cotation>
+            <cotation num="24" dateCotation="2010-01-02" valeurAction="680"></cotation>
+        </cotations>
+    </societe>
+    <societe type="Assurance">
+        <codeSociete>ASSMAAF</codeSociete>
+        <nomSociete>MAIF Assurance</nomSociete>
+        <dateIntroduction>2010-11-01</dateIntroduction>
+        <cotations>
+            <cotation num="43" dateCotation="2020-01-01" valeurAction="550"></cotation>
+            <cotation num="44" dateCotation="2021-01-02" valeurAction="380"></cotation>
+        </cotations>
+    </societe>
+</bourse>
